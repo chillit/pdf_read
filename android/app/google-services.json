@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874393971124",
+    "project_id": "pdf-read-decbc",
+    "storage_bucket": "pdf-read-decbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874393971124:android:81537a9a92ff3b38772ae1",
+        "android_client_info": {
+          "package_name": "com.example.pdf_read"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-1XSYqb5UH-AdOmcoHq-kG8Ec4ag9aA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
